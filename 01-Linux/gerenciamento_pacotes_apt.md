@@ -1,7 +1,3 @@
-
----
-
-### 2) `01-Linux/gerenciamento_pacotes_apt.md`
 ```markdown
 # Gerenciamento de Pacotes com APT (Debian/Ubuntu)
 
