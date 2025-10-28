@@ -5,23 +5,25 @@ Aqui organizo todo meu aprendizado prático, passo a passo — do básico ao ava
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🗂️ Estrutura do Repositório
 
 Cada pasta representa uma área de estudo:
-01-Linux/
-02-Git/
-03-Logica/
-04-Python/
-05-Backend/
-06-Cloud/
-07-Projetos/
 
+- [01-Linux](./01-Linux/)
+- [02-Git](./02-Git/)
+- [03-Lógica](./03-Logica/)
+- [04-Python](./04-Python/)
+- [05-Backend](./05-Backend/)
+- [06-Cloud](./06-Cloud/)
+- [07-Projetos](./07-Projetos/)
 
 Cada uma delas vai sendo preenchida ao longo dos dias, com:
-- 📘 Anotações e resumos
-- 💻 Exercícios práticos
-- 🧠 Insights e dúvidas
-- 🧩 Projetos e desafios reais
+
+- 📝 Anotações e resumos  
+- 💻 Exercícios práticos  
+- 🧠 Insights e dúvidas  
+- 🌿 Projetos e desafios reais
+
 
 ---
 
