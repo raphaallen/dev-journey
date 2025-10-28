@@ -1,8 +1,3 @@
-
----
-
-### Processos e Serviços.`
-```markdown
 # Processos e Serviços (ps, top, systemctl)
 
 Controlar processos é parte do dia a dia em servidores e dev.
