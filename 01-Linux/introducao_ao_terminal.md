@@ -1,6 +1,6 @@
 # 🐧 Introdução ao Terminal Linux
 
-O terminal é o coração do Linux.  
+O terminal é o coração do Linux. 
 Dominar a linha de comando é o primeiro passo para se tornar um verdadeiro desenvolvedor e entender como o sistema operacional funciona.
 
 ---
