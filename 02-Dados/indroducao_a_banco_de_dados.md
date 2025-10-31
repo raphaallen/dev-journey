@@ -1,20 +1,11 @@
-# Introdução a Bancos de Dados
+# Introdução a Banco de Dados
 
-Um **banco de dados (Database)** é um sistema usado para armazenar, organizar e gerenciar informações de forma estruturada.  
-Quase tudo o que usamos hoje — redes sociais, aplicativos, sistemas bancários — depende de um banco de dados.
-
----
-
-##  Tipos de Bancos de Dados
-
-| Tipo | Exemplo | Característica |
-|------|----------|----------------|
-| Relacional (SQL) | MySQL, PostgreSQL, MariaDB | Usa tabelas, colunas e chaves. Baseado em estrutura. |
-| Não-relacional (NoSQL) | MongoDB, Redis, Cassandra | Usa documentos, pares chave-valor ou grafos. Flexível e escalável. |
+Os bancos de dados são sistemas usados para armazenar, organizar e gerenciar informações de forma estruturada.  
+Eles permitem que aplicações acessem, gravem e atualizem dados de maneira eficiente e segura.
 
 ---
 
-##  Conceitos Fundamentais
+## Conceitos Fundamentais
 
 - **Tabela:** estrutura que armazena dados em linhas e colunas.  
 - **Linha (Registro):** representa uma entrada individual de dados.  
@@ -24,16 +15,16 @@ Quase tudo o que usamos hoje — redes sociais, aplicativos, sistemas bancários
 
 ---
 
-##  Exemplo simples de tabela
+## Exemplo simples de tabela
 
-| id | nome | idade | cidade |
-|----|------|--------|--------|
-| 1  | João | 30 | São Paulo |
-| 2  | Ana  | 25 | Recife |
+| id | nome | idade | cidade     |
+|----|------|--------|------------|
+| 1  | João | 30     | São Paulo  |
+| 2  | Ana  | 25     | Recife     |
 
 ---
 
-##  Estrutura SQL Básica
+## Estrutura SQL Básica
 
 ```sql
 CREATE TABLE usuarios (
@@ -42,6 +33,7 @@ CREATE TABLE usuarios (
   email VARCHAR(150),
   idade INT
 );
+
 
 INSERT INTO usuarios (nome, email, idade)
 VALUES ('Rafa', 'rafa@email.com', 27);
