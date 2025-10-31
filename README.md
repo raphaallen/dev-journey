@@ -10,7 +10,7 @@ Aqui organizo todo meu aprendizado prático, passo a passo — do básico ao ava
 Cada pasta representa uma área de estudo:
 
 - [01-Linux](./01-Linux/)
-- [02-Git](./02-Git/)
+- [02-Dados](./02-Dados/)
 - [03-Lógica](./03-Logica/)
 - [04-Python](./04-Python/)
 - [05-Backend](./05-Backend/)
